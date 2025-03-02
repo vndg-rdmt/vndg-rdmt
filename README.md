@@ -1,1 +1,1 @@
-![alt-text](https://raw.githubusercontent.com/vndg-rdmt/vndg-rdmt/refs/heads/main/dr.gif)
+<img src="/dr.gif?raw=true" width="200px">
